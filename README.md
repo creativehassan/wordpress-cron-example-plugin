@@ -4,7 +4,7 @@
 This is WordPress Example Plugin to Write Cron Job Plugin
 
 
-####You can create custom intervals 
+#### You can create custom intervals 
 
 > // add custom interval
 > 
